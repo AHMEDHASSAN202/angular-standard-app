@@ -2,7 +2,7 @@
 
 # Angular Standard Structure Files
 
-∇ app 
+# ∇ app 
     ∇ core
          ∇ guards
               auth.guard.ts
@@ -43,7 +43,7 @@
                    ∇ page-b
                         page-b.component.html|scss|ts
               ∇ models
-                    scoped-model-a.model.ts
+                    scoped-model-a.model.t
                     scoped-model-b.model.ts
               ∇ services
                     scoped-service-a.service.ts
