@@ -2,7 +2,7 @@
 
 # Angular Standard Structure Files
 
-∇ app
+∇ app 
     ∇ core
          ∇ guards
               auth.guard.ts
